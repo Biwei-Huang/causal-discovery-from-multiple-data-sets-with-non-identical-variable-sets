@@ -11,7 +11,9 @@ The code is written in Matlab R2019a.
 
 ### IMPORTANT FUNCTIONS
 function [A, mu, sigma, w, loglAll] = ifaEM_my(X, IDX0, numGauss, parsEM, filename)
+
 EM algorithm to learn the mixing matrix over the intergrated set of variables
+
 Inputs:
   *  X: data points
   *  IDX0: each column denotes the indices of variables in each data set; 
@@ -37,6 +39,8 @@ To avoid getting stuck on local optimum, one may randomly set different initial 
 
 ### CITATION
 If you use this code, please cite the following paper:
-"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI’20"
+
+"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI’20".
+
 
 If you have problems or questions, do not hesitate to send an email to biweih@andrew.cmu.edu
