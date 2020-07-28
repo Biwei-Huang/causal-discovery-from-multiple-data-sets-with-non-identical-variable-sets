@@ -1,4 +1,4 @@
-# causal-discovery-from-multiple-data-sets-with-non-identical-variable-sets
+# Causal discovery from multiple data sets with non-identical variable sets
 
 Copyright (c) 
  2019-2020 Biwei Huang
