@@ -33,6 +33,10 @@ EXAMPLE
 example1.m gives an example of using this package.
 
 
+%%%%%%%%%%%%%
+Notes
+%%%%%%%%%%%%%
+To avoid getting stuck on local optimum, one may randomly set different initial parameters, repeat the experiments, and finally choose the results with maximum log-likelihood. One may also set the initial parametres by leveraging the domain knowledge.
 
 %%%%%%%%%%%%%
 CITATION
