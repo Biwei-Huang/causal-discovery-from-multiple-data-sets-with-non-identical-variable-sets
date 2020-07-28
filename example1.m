@@ -59,7 +59,7 @@ Data = x;
 
 
 %% causal discovery from multiple data sets with non-identifical sets of variables
-
+% set the parameters
 parsEM.thres = 1e-7;
 parsEM.maxIter = 30000;
 initNoise = 0.6;
