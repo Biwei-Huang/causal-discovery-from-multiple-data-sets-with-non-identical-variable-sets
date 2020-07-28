@@ -2,7 +2,7 @@ Copyright (c)
  2019-2020 Biwei Huang
 
 This package contains code to the paper:
-"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI?20"
+"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI, 2020"
 The code is written in Matlab R2019a.
 
 
@@ -42,7 +42,7 @@ To avoid getting stuck on local optimum, one may randomly set different initial 
 CITATION
 %%%%%%%%%%%%%
 If you use this code, please cite the following paper:
-"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI?20"
+"Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour. Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets. AAAI, 2020"
 
 
 
